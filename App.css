@@ -1,0 +1,17 @@
+/* .body1{
+  position: absolute;
+  
+  width: 100%;
+  height: 100%;
+   background-image: url('Screenshot\ .png') ;
+   background-repeat: no-repeat; 
+} */
+
+
+.choose{
+  /* position: absolute; */
+  width: 26%;
+  top: 0%;
+ 
+  border: 2px solid red;
+}

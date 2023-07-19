@@ -1,0 +1,9 @@
+.inputCont{
+    height: 88vh;
+}
+
+input{
+    width: 100%;
+    border: 2px solid red;
+    height: 7%;
+}
